@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.kelvin.farm.MainActivity">
+    <item
+        android:id="@+id/action_logout"
+        android:orderInCategory="100"
+        android:title="Sign Out"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_post"
+        android:orderInCategory="100"
+        android:title="Post Product"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_help"
+        android:orderInCategory="100"
+        android:title="Help/FAQ"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_produce"
+        android:orderInCategory="100"
+        android:title="Produce"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/action_order"
+        android:orderInCategory="100"
+        android:title="Order Testers"
+        app:showAsAction="never" />
+
+
+</menu>

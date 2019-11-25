@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "975674604005",
+    "firebase_url": "https://farm-f58d5.firebaseio.com",
+    "project_id": "farm-f58d5",
+    "storage_bucket": "farm-f58d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975674604005:android:1dcf62e102fcec7a62170c",
+        "android_client_info": {
+          "package_name": "com.kelvin.farm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975674604005-3m8c3snr125nvsha5r75iqganbboq0vj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kelvin.farm",
+            "certificate_hash": "f33ce5b89bd5e45b016f399ee84b8ba0331ada94"
+          }
+        },
+        {
+          "client_id": "975674604005-q0p0akocjlu8t6sa30joh6ltpofenjme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9QGbt_Z3jD1sWd1bEQ1tqAddHWepQp80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975674604005-q0p0akocjlu8t6sa30joh6ltpofenjme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
